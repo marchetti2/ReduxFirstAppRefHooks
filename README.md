@@ -1,12 +1,15 @@
-<h2>RocketShoes</h2>
+<h2>About</h2>
 
 This is module 07 of the GoStack RocketSeat course (old journey).
 The project is a shoe store. Products are displayed on the main page and there is also a cart page.
 React hooks and dependencies like redux, redux-saga, axios were used.
 To simulate the server side, json-server was used.
+
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/fEfg0b0ydIKZ5HDnO2/giphy.gif">
