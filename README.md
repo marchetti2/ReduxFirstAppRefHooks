@@ -39,7 +39,7 @@ To simulate the server side, json-server was used.
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/ReduxFirstAppRefHooks.git && cd ReduxFirstAppRefHooks
+$ git clone https://github.com/marchetti2/rocketshoes-redux-hooks.git && cd rocketshoes-redux-hooks
 ```
 
 **Install the dependencies**
